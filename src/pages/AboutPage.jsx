@@ -7,8 +7,8 @@ function AboutPage() {
       {/* Hero Section */}
       <section className="about-hero">
         <div className="container">
-          <h1>About Foundation Model</h1>
-          <p>We're on a mission to democratize AI and make it accessible to everyone.</p>
+          <h1>About Flash</h1>
+          <p>We believe effective learning should be free, accessible, and fun for everyone.</p>
         </div>
       </section>
 
@@ -18,10 +18,11 @@ function AboutPage() {
           <div className="mission-content">
             <h2>Our Mission</h2>
             <p>
-              At Foundation Model, we believe that artificial intelligence should be 
-              accessible, ethical, and beneficial for all. Our mission is to build 
-              powerful yet responsible AI systems that empower developers, businesses, 
-              and individuals to solve complex problems and create positive impact.
+              At Flash, we're committed to democratizing education through intelligent,
+              free revision tools. Our mission is to help students, professionals, and
+              lifelong learners master any subject using proven study techniques like
+              spaced repetition and active recall. We believe everyone deserves access
+              to powerful learning tools, regardless of their background or budget.
             </p>
           </div>
         </div>
@@ -36,32 +37,32 @@ function AboutPage() {
               <div className="value-icon">
                 <Target size={40} />
               </div>
-              <h3>Innovation</h3>
-              <p>Pushing the boundaries of what's possible with AI technology.</p>
+              <h3>Learning First</h3>
+              <p>Everything we build is guided by education science and what helps students learn best.</p>
             </div>
-            
+
             <div className="value-card">
               <div className="value-icon">
                 <Users size={40} />
               </div>
-              <h3>Collaboration</h3>
-              <p>Working together with the community to build better solutions.</p>
+              <h3>Community</h3>
+              <p>We foster collaboration between students, creating a supportive learning community.</p>
             </div>
-            
+
             <div className="value-card">
               <div className="value-icon">
                 <Award size={40} />
               </div>
-              <h3>Excellence</h3>
-              <p>Striving for the highest quality in everything we do.</p>
+              <h3>Accessibility</h3>
+              <p>Quality education tools should be free and accessible to everyone, everywhere.</p>
             </div>
-            
+
             <div className="value-card">
               <div className="value-icon">
                 <Heart size={40} />
               </div>
-              <h3>Responsibility</h3>
-              <p>Building AI that is ethical, fair, and beneficial for society.</p>
+              <h3>Open Source</h3>
+              <p>We believe in transparency and community-driven development. Flash is built by the community, for the community.</p>
             </div>
           </div>
         </div>
@@ -72,15 +73,14 @@ function AboutPage() {
         <div className="container story-container">
           <h2>Our Story</h2>
           <p>
-            Foundation Model was founded by a team of researchers and engineers who 
-            saw the transformative potential of large language models. We started 
-            with a simple idea: make state-of-the-art AI accessible to developers 
-            of all skill levels.
+            Flash was born from frustration with expensive, feature-bloated study tools.
+            Our founders believed that effective learning didn't need to cost hundreds of dollars.
+            We started with a simple mission: create the free, open-source alternative that students actually want to use.
           </p>
           <p>
-            Today, we serve thousands of customers worldwide, from startups to 
-            Fortune 500 companies, helping them build intelligent applications 
-            that were once impossible.
+            Today, Flash powers millions of study sessions worldwide, helping students ace
+            exams, learn new languages, and master professional skills. We're proud to be
+            part of your learning journey.
           </p>
         </div>
       </section>
